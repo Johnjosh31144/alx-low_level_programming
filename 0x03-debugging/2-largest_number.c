@@ -1,4 +1,3 @@
-2-largest_number.txt
 #include "main.h"
 
 /**
