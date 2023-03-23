@@ -1,4 +1,3 @@
-0-isupper.txt
 #include "main.h"
 
 /**
