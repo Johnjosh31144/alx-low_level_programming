@@ -1,4 +1,3 @@
-2-strchr.txt
 #include "main.h"
 
 /**
