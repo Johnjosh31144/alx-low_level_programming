@@ -1,4 +1,3 @@
-1-listint_len.c
 #include "lists.h"
 
 /**
