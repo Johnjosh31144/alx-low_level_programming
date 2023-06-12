@@ -1,9 +1,6 @@
-#include <stdlib.h>
-		
 #include "main.h"
-		
-
-		
+#include <stdio.h>
+#include <stdlib.h>
 /**
 		
  *  * count_word - helper function to count the number of words in a string
@@ -151,3 +148,4 @@ char **strtow(char *str)
 	return (matrix);
 		
 }
+
