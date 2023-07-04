@@ -1,4 +1,3 @@
-lists.h
 #ifndef LISTS_H
 #define LISTS_H
 
@@ -11,7 +10,7 @@ lists.h
  * @next: points to the next node
  *
  * Description: singly linked list node structure
- * for Holberton project
+ * for alx project
  */
 typedef struct listint_s
 {
@@ -36,4 +35,3 @@ size_t free_listint_safe(listint_t **h);
 listint_t *find_listint_loop(listint_t *head);
 
 #endif
-
