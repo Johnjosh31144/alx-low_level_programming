@@ -1,4 +1,3 @@
-2-add_nodeint.c
 #include "lists.h"
 
 /**
@@ -15,7 +14,6 @@ size_t free_listint_safe(listint_t **h)
 
 	if (!h || !*h)
 		return (0);
-
 
 	while (*h)
 	{
@@ -39,3 +37,4 @@ size_t free_listint_safe(listint_t **h)
 	*h = NULL;
 
 	return (len);
+}
